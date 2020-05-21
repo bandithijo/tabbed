@@ -2,12 +2,12 @@
 
 /* appearance */
 static const char font[]        = "FuraCode Nerd Font:size=8";
-static const char* normbgcolor  = "#222222";
-static const char* normfgcolor  = "#cccccc";
-static const char* selbgcolor   = "#555555";
-static const char* selfgcolor   = "#ffffff";
-static const char* urgbgcolor   = "#111111";
-static const char* urgfgcolor   = "#cc0000";
+static const char* normbgcolor  = "#4e4e4e";
+static const char* normfgcolor  = "#eeeeee";
+static const char* selbgcolor   = "#1e1e1e";
+static const char* selfgcolor   = "#eeeeee";
+static const char* urgbgcolor   = "#ffffff";
+static const char* urgfgcolor   = "#ff0000";
 static const char before[]      = "<";
 static const char after[]       = ">";
 static const char titletrim[]   = "...";
