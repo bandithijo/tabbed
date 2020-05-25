@@ -2,9 +2,9 @@
 
 /* appearance */
 static const char font[]        = "FuraCode Nerd Font:size=8";
-static const char* normbgcolor  = "#4e4e4e";
+static const char* normbgcolor  = "#1e1e1e";
 static const char* normfgcolor  = "#eeeeee";
-static const char* selbgcolor   = "#1e1e1e";
+static const char* selbgcolor   = "#4e4e4e";
 static const char* selfgcolor   = "#eeeeee";
 static const char* urgbgcolor   = "#ffffff";
 static const char* urgfgcolor   = "#ff0000";
