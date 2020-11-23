@@ -1,15 +1,15 @@
 /* See LICENSE file for copyright and license details. */
 
 /* appearance */
-static const char font[]        = "FuraCode Nerd Font:size=8";
+static const char font[]        = "JetBrainsMono Nerd Font Bandit:size=8";
 static const char* normbgcolor  = "#303030";
 static const char* normfgcolor  = "#eeeeee";
 static const char* selbgcolor   = "#1e1e1e";
 static const char* selfgcolor   = "#eeeeee";
 static const char* urgbgcolor   = "#ffffff";
 static const char* urgfgcolor   = "#ff0000";
-static const char before[]      = "<";
-static const char after[]       = ">";
+static const char before[]      = "";
+static const char after[]       = "";
 static const char titletrim[]   = "...";
 static const int  tabwidth      = 100;
 static const Bool foreground    = True;
