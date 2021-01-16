@@ -2,12 +2,12 @@
 
 /* appearance */
 static const char font[]        = "JetBrainsMono Nerd Font Bandit:size=8";
-static const char* normbgcolor  = "#303030";
-static const char* normfgcolor  = "#eeeeee";
-static const char* selbgcolor   = "#1e1e1e";
-static const char* selfgcolor   = "#eeeeee";
-static const char* urgbgcolor   = "#ffffff";
-static const char* urgfgcolor   = "#ff0000";
+static const char* normbgcolor  = "#073642";
+static const char* normfgcolor  = "#586E75";
+static const char* selbgcolor   = "#002B36";
+static const char* selfgcolor   = "#93A1A1";
+static const char* urgbgcolor   = "#DC322F";
+static const char* urgfgcolor   = "#EEE8D5";
 static const char before[]      = "";
 static const char after[]       = "";
 static const char titletrim[]   = "...";
