@@ -1,15 +1,15 @@
 /* See LICENSE file for copyright and license details. */
 
 /* appearance */
-static const char font[]        = "monospace:size=9";
-static const char* normbgcolor  = "#222222";
-static const char* normfgcolor  = "#cccccc";
-static const char* selbgcolor   = "#555555";
-static const char* selfgcolor   = "#ffffff";
-static const char* urgbgcolor   = "#111111";
-static const char* urgfgcolor   = "#cc0000";
-static const char before[]      = "<";
-static const char after[]       = ">";
+static const char font[]        = "JetBrainsMono Nerd Font Bandit:size=8";
+static const char* normbgcolor  = "#262626";
+static const char* normfgcolor  = "#808080";
+static const char* selbgcolor   = "#1E1E1E";
+static const char* selfgcolor   = "#93A1A1";
+static const char* urgbgcolor   = "#F24646";
+static const char* urgfgcolor   = "#E9E9E9";
+static const char before[]      = "";
+static const char after[]       = "";
 static const char titletrim[]   = "...";
 static const int  tabwidth      = 200;
 static const Bool foreground    = True;
@@ -33,7 +33,7 @@ static Bool npisrelative  = False;
         } \
 }
 
-#define MODKEY ControlMask
+#define MODKEY Mod1Mask
 static Key keys[] = {
 	/* modifier             key        function     argument */
 	{ MODKEY|ShiftMask,     XK_Return, focusonce,   { 0 } },
