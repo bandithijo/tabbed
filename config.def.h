@@ -1,10 +1,10 @@
 /* See LICENSE file for copyright and license details. */
 
 /* appearance */
-static const char font[]        = "monospace:size=9";
-static const char* normbgcolor  = "#222222";
-static const char* normfgcolor  = "#cccccc";
-static const char* selbgcolor   = "#555555";
+static const char font[]        = "JetBrainsMono Nerd Font Bandit:style=Medium:pixelsize=14";
+static const char* normbgcolor  = "#1E1E1E";
+static const char* normfgcolor  = "#EEEEEE";
+static const char* selbgcolor   = "#005F87";
 static const char* selfgcolor   = "#ffffff";
 static const char* urgbgcolor   = "#111111";
 static const char* urgfgcolor   = "#cc0000";
